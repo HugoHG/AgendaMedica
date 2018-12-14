@@ -1,0 +1,5 @@
+-Subir a pasta "apiAgendaMedica" em um servidor PHP local
+-Subir o banco em um servidor MySQL local
+-A pasta agenda_medica é o projeto Desktop
+-A pasta AgendaMedica é o projeto Mobile
+-O projeto mobile deve ser rodado em um emulador no mesmo computador do que os servidores
